@@ -38,4 +38,4 @@ All this happens **live**, with camera input and simulated `W`, `A`, `S`, `D` ke
 ### 1. Clone this repo
 ```bash
 git clone https://github.com/CoderAmbar/PalmPlay.git
-cd gesture-control-car
+cd PalmPlay
